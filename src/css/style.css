@@ -1,0 +1,21 @@
+body {
+    background-color: #FFFFFF;
+    font-family: Arial;
+    margin: 0 auto;
+    padding: 0;
+    text-align: center;
+}
+
+button {
+    background-color: #007FFF;
+    border: none;
+    color: #FFFFFF;
+    font-size: 1rem;
+    padding: 10px 20px;
+}
+
+#chaveGerada {
+    font-size: 2rem;
+    font-weight: bold;
+    margin: 50px 0;
+}
